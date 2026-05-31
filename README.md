@@ -1,7 +1,7 @@
-<p align="center"><img src="x" alt="angelolz-icon"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/nescaucodes/nescaucodes/refs/heads/main/miku.webp" alt="angelolz-icon"/></p>
 
-<h1 align="center">Opa!, me chamo Cauan</h1>
-<h3 align="center">Programador Iniciante</h3>
+<h1 align="center">Olá!, me chamo Cauan</h1>
+<h3 align="center">Programador / Editor de Vídeo Iniciante</h3>
 
 <p align="center">Aqui ficará salvo alguns projetos pessoais meus.
 
