@@ -1,17 +1,13 @@
-## Opa! 👋
-Aqui ficará salvo alguns projetos pessoais meus.
+<p align="center"><img src="x" alt="angelolz-icon"/></p>
 
-<!--
-**nescaucodes/nescaucodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Opa!, me chamo Cauan</h1>
+<h3 align="center">Programador Iniciante</h3>
 
-Here are some ideas to get you started:
+<p align="center">Aqui ficará salvo alguns projetos pessoais meus.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Habilidades (em aprendizado)</h2>
+<h3 align="center">Linguagens de Programação</h3>
+<p align="center"><img align="middle" src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,mysql" alt="programming-languages"/></p>
+
+<h3 align="center">Editores de Texto/IDEs</h3>
+<p align="center"><a align=center><img align="center" src="https://skillicons.dev/icons?i=idea,vscode" alt="programming-languages"/></a></p>
