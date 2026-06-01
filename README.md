@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/nescaucodes/nescaucodes/refs/heads/main/banner.png" alt="banner.png"/></p>
+<p align="center"><img src="[https://raw.githubusercontent.com/nescaucodes/nescaucodes/refs/heads/main/banner.png](https://raw.githubusercontent.com/nescaucodes/nescaucodes/0067485c9d5fb303404984b27900c2314135f1bd/images/top.svg)" alt="banner.png"/></p>
 
 <h1 align="center">Olá!, me chamo Cauan</h1>
 <h3 align="center">Programador Iniciante</h3>
