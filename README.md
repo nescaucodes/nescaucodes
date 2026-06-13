@@ -8,7 +8,7 @@
 <h2 align="center">Habilidades (em aprendizado)</h2>
 
 <h3 align="center">Linguagens de Programação</h3>
-<p align="center"><img align="middle" src="https://skillicons.dev/icons?i=java,python,js,html,css,nodejs,mysql" alt="programming-languages"/></p>
+<p align="center"><img align="middle" src="https://skillicons.dev/icons?i=python,html,css,js,nodejs,java" alt="programming-languages"/></p>
 
 <h3 align="center">Editores de Texto/IDEs</h3>
 <p align="center"><a align=center><img align="center" src="https://skillicons.dev/icons?i=vscode,pycharm,idea" alt="programming-languages"/></a></p>
